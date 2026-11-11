@@ -43,6 +43,14 @@ RULES — 01 the human's decision outranks the model's suggestion — enforce it
 ```
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayu095/Aayu095/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayu095/Aayu095/output/github-contribution-grid-snake.svg"/>
+    <img alt="A snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Aayu095/Aayu095/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
+
+<p align="center">
   🏟️ <a href="https://devpost.com/aayushigoel73"><strong>Full 63-entry record → Devpost</strong></a> · 𝕏 <a href="https://x.com/aayuG_">@aayuG_</a> · 🚀 <a href="https://launch-runway.vercel.app">Latest build, live</a>
 </p>
 
