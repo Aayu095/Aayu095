@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+  <defs>
+    <pattern id="dots3" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#1B222E"/>
+    </pattern>
+    <linearGradient id="axis" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39445A"/>
+      <stop offset="1" stop-color="#FF4D00"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="378" rx="16" fill="#0B0E14" stroke="#232B38"/>
+  <rect x="1" y="1" width="1198" height="378" rx="16" fill="url(#dots3)"/>
+
+  <text x="56" y="58" font-family="monospace" font-size="15" letter-spacing="4" fill="#8A94A6">THE ARC — SEASON BY SEASON</text>
+
+  <line x1="70" y1="192" x2="1130" y2="192" stroke="url(#axis)" stroke-width="3"/>
+
+  <!-- node 1: APR 2025, label below -->
+  <circle cx="100" cy="192" r="9" fill="#0B0E14" stroke="#F5F7FA" stroke-width="3"/>
+  <text x="100" y="160" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" letter-spacing="1" fill="#F5F7FA">APR 2025</text>
+  <text x="100" y="238" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#F5F7FA">FIRST HACKATHON</text>
+  <text x="100" y="262" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A7B0BE">in-person · the start</text>
+
+  <!-- node 2: JUN 2025, label above -->
+  <circle cx="303" cy="192" r="9" fill="#FF4D00"/>
+  <text x="303" y="160" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" letter-spacing="1" fill="#FF4D00">JUN 2025</text>
+  <text x="303" y="110" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#F5F7FA">DUAL BOOT WINNER</text>
+  <text x="303" y="132" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A7B0BE">prizes: in-person + online</text>
+  <text x="303" y="238" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="1" fill="#8A94A6">WIN #1 + #2</text>
+
+  <!-- node 3: OCT 2025, label below -->
+  <circle cx="506" cy="192" r="11" fill="#FF4D00"/>
+  <text x="506" y="160" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" letter-spacing="1" fill="#FF4D00">OCT 2025</text>
+  <text x="506" y="238" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#F5F7FA">2ND PLACE — GNEC</text>
+  <text x="506" y="262" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A7B0BE">Monsoon Mitr, farming AI</text>
+
+  <!-- node 4: JUL 2026, label above -->
+  <circle cx="709" cy="192" r="9" fill="#FF4D00"/>
+  <text x="709" y="160" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" letter-spacing="1" fill="#FF4D00">JUL 2026</text>
+  <text x="709" y="110" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#F5F7FA">WINNER LEVEL 9</text>
+  <text x="709" y="132" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A7B0BE">Devpost career badge</text>
+  <text x="709" y="238" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="1" fill="#8A94A6">STILL WINNING</text>
+
+  <!-- node 5: OCT 2026, label below -->
+  <circle cx="912" cy="192" r="9" fill="#0B0E14" stroke="#F5F7FA" stroke-width="3"/>
+  <text x="912" y="160" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" letter-spacing="1" fill="#F5F7FA">OCT 2026</text>
+  <text x="912" y="238" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#F5F7FA">63RD SUBMISSION</text>
+  <text x="912" y="262" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A7B0BE">BeeBridge · Amazon devices</text>
+
+  <!-- node 6: NOV 2026, label above -->
+  <circle cx="1095" cy="192" r="11" fill="#FF4D00"/>
+  <text x="1095" y="160" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" letter-spacing="1" fill="#FF4D00">NOV 2026</text>
+  <text x="1090" y="110" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#F5F7FA">LAUNCH LIVE</text>
+  <text x="1090" y="132" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A7B0BE">+ Anchor PR · NousResearch</text>
+  <text x="1095" y="238" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="1" fill="#FF8A50">YOU ARE HERE</text>
+</svg>
