@@ -20,6 +20,8 @@
 | 🚀 the founder on launch day | **[Launch](https://github.com/Aayu095/Launch)** — lock what's final, the agent adapts, **nothing ships without your approval** · [LIVE](https://launch-runway.vercel.app) |
 | ⚓ everyone whose agent "forgot" | **[Anchor](https://github.com/Aayu095/hermes-anchor)** — pins decisions verbatim through compression · 100 tests, 0 drift · [PR → NousResearch](https://github.com/NousResearch/hermes-agent/pull/152955) |
 
+<p align="center"><sub>➕ 2 more wins came off-Devpost — never posted anywhere. They live only on my resume.</sub></p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,firebase,git,github,vercel" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Tailwind, Firebase, Git, GitHub, Vercel"/>
 </p>
