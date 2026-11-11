@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,firebase,git,github,vercel" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Tailwind, Firebase, Git, GitHub, Vercel"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayu095&bg_color=0B0E14&color=F5F7FA&line=FF4D00&point=FF4D00&area=true&hide_border=true" alt="Aayushi's GitHub activity graph" width="100%"/>
+<img src="./assets/timeline.svg" alt="The Arc: Apr 2025 first hackathon, Jun 2025 Dual Boot Winner, Oct 2025 2nd place GNEC, Jul 2026 Winner Level 9, Oct 2026 63rd submission, Nov 2026 Launch live and Anchor PR" width="100%"/>
 
 ```
 RULES — 01 the human's decision outranks the model's suggestion — enforce it server-side
