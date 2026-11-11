@@ -1,74 +1,70 @@
-<h1 align="center">Aayushi Goel</h1>
+# Aayushi Goel
 
-<p align="center">
-  <strong>I build AI agents that do the work — and respect the human's decisions.</strong><br/>
-  3rd-year B.Tech CSE student · Hackathon builder · Meerut, India
-</p>
+> **Most people build for the first row. I build for the last row —**
+> the farmer watching the sky, the woman who can't read the app in her hands,
+> the mother awake at 3 AM with a sick child. Then I ship it, live, in a weekend.
 
-<p align="center">
-  <a href="https://github.com/Aayu095/Launch"><img src="https://img.shields.io/badge/Featured-Launch%20🚀-ff4d00?style=for-the-badge" alt="Launch"/></a>
-  <a href="https://github.com/Aayu095/hermes-anchor"><img src="https://img.shields.io/badge/Featured-Anchor%20⚓-1f6feb?style=for-the-badge" alt="Anchor"/></a>
-  <a href="https://x.com/aayuG_"><img src="https://img.shields.io/badge/X-@aayuG__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-</p>
+```
+THE RECORD
+────────────────────────────────────────────────────────────
+HACKATHON SUBMISSIONS .... 63   (Devpost-verified, Level 63)
+PRIZES ................... MULTIPLE — IN-PERSON + ONLINE
+                           (Devpost: Winner Level 9 · Dual Boot Winner)
+BEST FINISH .............. 2ND PLACE — GNEC HACKATHON 2025 FALL
+BASE ..................... FINAL-YEAR B.TECH CSE,
+                           SHOBHIT UNIVERSITY, MEERUT
+CURRENT SEASON ........... AGENT-NATIVE SYSTEMS
+────────────────────────────────────────────────────────────
+```
 
 ---
 
-### What I do
+## WHOM I BUILD FOR
 
-I build **agent-native products** — software where an AI agent works alongside the user on shared state, with rules the agent itself cannot break. My recent work keeps returning to one question: *how do you let an agent act, without letting it overrule the human?*
+**For the farmer checking the sky** — **[Monsoon Mitr](https://gnec-hackathon-2025-fall.devpost.com/updates/37238-and-the-winner-is)** · AI farming companion that predicts rain, saves water and protects crops — offline, in his own language. 🏆 **2nd place, GNEC Hackathon 2025 Fall** (link = the official winners announcement). Its sibling **JalRakshak** guards water and soil in 5 languages, offline-first.
 
-- 🔒 **Enforced human control** — locks and approval gates that live server-side, not in the UI
-- 🧠 **Deterministic over vibes** — systems that prove their guarantees with tests, not promises
-- 🚢 **Demo-first** — if it doesn't show live in 30 seconds, it doesn't ship
+**For the woman the internet forgot** — **[Sakhi](https://github.com/Aayu095/Sakhi)** · a voice-first AI companion that breaks the literacy barrier for 300M+ rural women: no reading, no typing — just speak, in your own language, and learn, earn and get guided. (Voice-first sibling: **[DidiDial](https://github.com/Aayu095/DidiDial)**.)
 
-### Featured work
+**For the mother awake at 3 AM** — **[MaaCheck](https://github.com/Aayu095/MaaCheck)** · WHO-validated pneumonia screening (IMCI 2024 thresholds) in every mother's hands — free, offline, 3 minutes, no hospital queue required to know *"is this serious?"*
 
-| Project | What it is | Proof it works |
-| --- | --- | --- |
-| **[Launch](https://github.com/Aayu095/Launch)** 🚀 | The launch-day war room. You lock what's final, the agent adapts every channel around it, and nothing publishes without your approval. | **Live:** [launch-runway.vercel.app](https://launch-runway.vercel.app) · Builder.io Agent-Native Hackathon entry · Locked-asset edits are rejected by the backend itself |
-| **[Anchor](https://github.com/Aayu095/hermes-anchor)** ⚓ | A context engine for Hermes Agent that pins decisions, amounts and dates *verbatim* before context compression — so the agent never paraphrases away what you already decided. Zero model calls. | Catalog PR to **NousResearch/hermes-agent** · 44/44 tests · pins survive 100 compression passes byte-identical · official validator 15/15 |
-| **[WellNestAI](https://github.com/Aayu095/WellNestAI)** | Multi-agent wellness platform — mood tracking, mindful journaling, goals and personalised support in one lightweight app. | TypeScript · multi-agent architecture |
-| **[MaatiMap](https://github.com/Aayu095/MaatiMap-Digital-Soul-of-India)** | An AI-integrated platform to digitally preserve and explore India's cultural traditions, built for inclusivity and community-driven discovery. | TypeScript · AI + real-time tech |
-| **[IndySafe Chat](https://github.com/Aayu095/IndySafe-Chat)** | Real-time, AI-powered public safety assistant — report hazards, get live alerts and emergency guidance in conversation. | Next.js · Genkit (Gemini AI) · Firebase · Geoapify |
-| **[Q-MediScan](https://github.com/Aayu095/Q-Mediscan)** | Quantum-enhanced breast cancer detection using quantum machine learning on biomarker data, with error mitigation and ensemble methods. | Python · quantum ML circuits |
+**For the senior living alone** — **BeeBridge** · a second memory for seniors: Bee remembers the conversation, Alexa+ answers the question, Ring watches the door — three Amazon devices, one quiet guardian.
 
-### How I build
+**For the person one tap from being scammed** — **VETO / [GarudPay](https://github.com/Aayu095/GarudPay)** · the *Undo Button* for digital payments: AI spots APP fraud in real time and holds the money in a cooling-off escrow before it disappears forever.
+
+**For the founder on launch day** — **[Launch](https://github.com/Aayu095/Launch)** 🚀 · the launch-day war room: you lock what's final, the agent adapts every channel around it, and **nothing publishes without your approval** — enforced in the backend, not requested in a prompt. **Live: [launch-runway.vercel.app](https://launch-runway.vercel.app)**
+
+**For everyone whose agent "forgot"** — **[Anchor](https://github.com/Aayu095/hermes-anchor)** ⚓ · a context engine for Hermes Agent that pins your decisions, amounts and dates *verbatim* before compression — 100 test compressions, not one character drifts. Zero model calls. Catalog PR: [NousResearch/hermes-agent#152955](https://github.com/NousResearch/hermes-agent/pull/152955)
+
+*Also in the log:* **WellNest.AI** (5-agent wellness companion — I was founder & developer) · **MaatiMap** (India's culture, digitally preserved) · **IndySafe** (real-time public safety, Next.js + Gemini) · **Q-MediScan** (quantum ML for early cancer detection) · **Vigil** · **BridgeTalk** (100% offline voice translation) — the full 63-entry record lives on my [Devpost](https://devpost.com/aayushigoel73).
+
+---
+
+## THE ARC
 
 ```
-DECISION → LOCK IT → AGENT ADAPTS AROUND IT → HUMAN APPROVES → SHIP
+2024 ── graphic design · web · cybersecurity (ethical hacking, bug bounty)
+2025 ── first hackathon (in-person, April) → then 62 more
+2026 ── agent-native systems: software that works WITH you,
+        and answers TO you
 ```
 
-Every project above follows the same discipline: the core rule is a system, not a prompt. In Launch, the lock binds the agent too — a locked post stays byte-identical because the publish/edit actions reject changes, not because the model was asked nicely. In Anchor, the guarantee is a test: compress the same conversation 100 times and diff the pins.
+The tools changed every season. The person in the last row didn't.
 
-### Stack
+---
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
+## RULES I BUILD BY
 
-### Hackathon log — November 2026
+1. **The human's decision outranks the model's suggestion.** Enforce it server-side — a lock the agent itself cannot break beats a polite prompt.
+2. **If it can't be shown live in 30 seconds, it isn't finished.**
+3. **A guarantee you can't test is a slogan.** Anchor's promise is a diff: compress 100 times, compare every character.
+4. **Build for someone specific.** "Users" is nobody. A farmer, a mother, a founder — that's a spec.
 
-- **Builder.io Agent-Native Hackathon** — built and submitted **Launch**, a full agent-native app where the UI, the chat and the agent all call the same shared actions
-- **NousResearch Hermes Agent Plugin Hackathon** — built **Anchor** and opened the catalog PR to the official Hermes repository
+---
 
-### GitHub stats
+## FIND ME
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayu095&show_icons=true&theme=tokyonight&hide_border=true" alt="Aayushi's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayu095&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
+- 🏟️ **The full record** — [devpost.com/aayushigoel73](https://devpost.com/aayushigoel73) · 63 submissions, every build logged
+- 𝕏 **[@aayuG_](https://x.com/aayuG_)** — demos and the current season
+- 🚀 **Latest build, live** — [launch-runway.vercel.app](https://launch-runway.vercel.app)
 
-### Reach me
-
-- 𝕏 **[@aayuG_](https://x.com/aayuG_)** — where I post demos and build in public
-- 💻 **GitHub** — you're already here; the featured repos above are the fastest way to see how I work
-- 🌱 Currently exploring opportunities and collaborations in AI product building
-
-<p align="center"><em>Building in public, one shipped demo at a time.</em></p>
+<p align="center"><em>63 in. Still in the arena.</em></p>
