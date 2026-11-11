@@ -8,7 +8,14 @@
 
 <p align="center"><strong>Final-year B.Tech CSE · Shobhit University · Meerut, India</strong></p>
 
+<p align="center">
+  <a href="https://x.com/aayuG_"><img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-2EA043?style=for-the-badge" alt="Open to internships"/></a>
+  <a href="https://devpost.com/aayushigoel73"><img src="https://img.shields.io/badge/OPEN_TO-COLLABS_%26_HACKATHON_TEAMS-FF4D00?style=for-the-badge" alt="Open to collabs and hackathon teams"/></a>
+</p>
+
 <img src="./assets/last-row.svg" alt="Everyone builds for the front row. I build for the last row — the farmer, the mother, the senior, the founder." width="100%"/>
+
+<a href="https://clips.agent-native.com/share/53J09PZx4x7H"><img src="./assets/watch.svg" alt="Watch the film: the Launch demo in 72 seconds — lock, adapt, approve, publish" width="100%"/></a>
 
 | FOR | BUILT |
 | --- | --- |
